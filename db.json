@@ -1,0 +1,182 @@
+ [
+    {
+      "id": 1,
+      "name": "Taj Palace",
+      "area": "Rajpath Marg",
+      "rating": 4.6,
+      "reviews": 745,
+      "price": 2200,
+      "delas": 0,
+      "city": "Delhi",
+      "paymentType": "Fully Refundable",
+      "propertyType": "Hotel",
+      "address": "2 Sardar Patel Marg, New Delhi, Delhi N.C.R, 110 021",
+      "images": [
+        {
+          "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/b6be1b6d.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        },
+        {
+          "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/60f296fc.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        },
+        {
+          "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/a8a1db3c.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        },
+        {
+          "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/815cb962.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        },
+        {
+          "url": "https://images.trvl-media.com/hotels/1000000/470000/465100/465005/5b2c7bd3.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Roseate House",
+      "area": "Aerocity",
+      "rating": 4.3,
+      "reviews": 115,
+      "price": 2000,
+      "delas": 0,
+      "city": "Delhi",
+      "paymentType": "Reserve now Pay, Later",
+      "propertyType": "Hotel Resort",
+      "address": "Plot No. 10, GMR Hospitality District, Indira Gandhi International Airport, New Delhi, Delhi N.C.R, 110037",
+      "images": [
+        {
+          "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/532d599e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        },
+        {
+          "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/0a8a9767.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        },
+        {
+          "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/d9497b8e.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        },
+        {
+          "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/46cae695.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        },
+        {
+          "url": "https://images.trvl-media.com/hotels/11000000/10220000/10210200/10210101/85717027.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "The Leela Palace",
+      "area": "Rajpath Marg",
+      "rating": 4.6,
+      "reviews": 745,
+      "price": 2200,
+      "delas": 0,
+      "city": "Delhi",
+      "paymentType": "Fully Refundable",
+      "propertyType": "Villa",
+      "address": "Diplomatic Enclave Chanakyapuri, New Delhi, Delhi N.C.R, 110023",
+      "images": [
+        {
+          "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/958ad657.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        },
+        {
+          "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/5cc49445.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        },
+        {
+          "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/9b582675.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        },
+        {
+          "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/bada04cf.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        },
+        {
+          "url": "https://images.trvl-media.com/hotels/4000000/3860000/3851700/3851663/91dcc871.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Novotel New Delhi Aerocity Hotel",
+      "area": "Aerocity",
+      "rating": 4.1,
+      "reviews": 523,
+      "price": 3500,
+      "delas": 10,
+      "city": "Delhi",
+      "paymentType": "Reserve now Pay, Later",
+      "propertyType": "Hotel",
+      "address": "Diplomatic Enclave Chanakyapuri, New Delhi, Delhi N.C.R, 110023",
+      "images": [
+        {
+          "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/b50c24b2.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        },
+        {
+          "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/250c8ebe.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        },
+        {
+          "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/defff5d3.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        },
+        {
+          "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/6afbdc15.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        },
+        {
+          "url": "https://images.trvl-media.com/hotels/10000000/9150000/9141400/9141328/83316a8d.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "The Park New Delhi",
+      "area": "Rajpath Marg",
+      "rating": 3.5,
+      "reviews": 542,
+      "price": 3000,
+      "delas": 10,
+      "city": "Delhi",
+      "paymentType": "Fully Refundable",
+      "propertyType": "Hotel Resort",
+      "address": "15 Parliament Street, Near Connaught Place, New Delhi, Delhi N.C.R, 110001",
+      "images": [
+        {
+          "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/96935ba2.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        },
+        {
+          "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/b9e205f5.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        },
+        {
+          "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/29c8b891.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        },
+        {
+          "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/6ca1e538.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        },
+        {
+          "url": "https://images.trvl-media.com/hotels/1000000/570000/562300/562208/366756ee.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Hotel City Star",
+      "area": "Paharganj",
+      "rating": 4.3,
+      "reviews": 890,
+      "price": 1500,
+      "delas": 30,
+      "city": "Delhi",
+      "paymentType": "Reserve now Pay, Later",
+      "propertyType": "Palace",
+      "address": "8718 D.B. Gupta Road Paharganj, New Delhi, Delhi N.C.R, 110055",
+      "images": [
+        {
+          "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/56ea3aed.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        },
+        {
+          "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/2aa9ca3f.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        },
+        {
+          "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/992d6629.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        },
+        {
+          "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/8f3174dd.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        },
+        {
+          "url": "https://images.trvl-media.com/hotels/6000000/5650000/5648500/5648455/d4e6db6f.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium"
+        }
+      ]
+    }
+ ]
