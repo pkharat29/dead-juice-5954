@@ -8,6 +8,7 @@ import Footer from './Components/Footer/Footer';
 import FeaturedOffers from './Components/HomepageStatic/FeaturedOffers'
 import Options from './Components/HomepageStatic/Options';
 import Section1 from './Components/HomepageStatic/Section1'
+import Hero from './Components/Hero';
 
 //  import { Routes } from './Routes/Routes';
 
@@ -17,6 +18,7 @@ function App() {
   return (
     <div className="class1" >
       <Navbar />
+      <Hero/>
 
       <div style={{
         margin: 'auto',
@@ -36,6 +38,8 @@ function App() {
         </img>
 
       </div>
+
+
 
 
       <Section1/>
