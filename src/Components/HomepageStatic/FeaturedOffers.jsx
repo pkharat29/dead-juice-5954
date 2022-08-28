@@ -19,7 +19,7 @@ const img =
             p: "Fly Somewhere Breachy and Warm"
         }
     ]
-export default function Vacation() {
+export default function FeaturedOffers() {
     return (
         <MainCont>
             <Cont>
