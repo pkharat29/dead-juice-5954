@@ -17,7 +17,7 @@ export default function Hero() {
         </div>
         <div className="search">
           <div className="container">
-            <label htmlFor="">Where you want to go</label>
+            <label htmlFor="">Where you want to go </label>
             <input type="text" placeholder="Search Your location" />
           </div>
           <div className="container">

@@ -7,47 +7,41 @@
 // }
 
 // export default Login
-import React, { useState } from 'react';
+import React, { useState } from "react";
 import { Link } from "react-router-dom";
+import "./Login.css"
 
-function Login(props) {
-  const username = useFormInput('');
-  const password = useFormInput('');
-  const [error, setError] = useState(null);
-  const [loading, setLoading] = useState(false);
- 
-  // handle button click of login form
-  const handleLogin = () => {
-    props.history.push('/dashboard');
-  }
- 
-  return (
-    <div>
-      Login<br /><br />
-      <div>
-        Username<br />
-        <input type="text" {...username} autoComplete="new-password" />
-      </div>
-      <div style={{ marginTop: 10 }}>
-        Password<br />
-        <input type="password" {...password} autoComplete="new-password" />
-      </div>
-      {error && <><small style={{ color: 'red' }}>{error}</small><br /></>}<br />
-     <Link to='/'> <input type="button" value={loading ? 'Loading...' : 'Login'} onClick={handleLogin} disabled={loading} /></Link><br />
-    </div>
-  );
+const LoginForm = () => {
+
+    const [popupStyle, showPopup] = useState("hide")
+
+    const popup = () => {
+        showPopup("login-popup")
+        setTimeout(() => showPopup("hide"), 3000)
+    }
+
+    return (
+        <div className="cover">
+            <h1>Login</h1>
+            <input type="text" placeholder="username" />
+            <input type="password" placeholder="password" />
+
+             <Link to='/'><div className="login-btn" onClick={popup}>Login</div></Link>
+
+            <p className="text">Or login using</p>
+
+            <div className="alt-login">
+                <div className="facebook"></div>
+                <div className="google"></div>
+            </div>
+
+            <div className={popupStyle}>
+                <h3>Login Failed</h3>
+                <p>Username or password incorrect</p>
+            </div>
+
+        </div>
+    )
 }
- 
-const useFormInput = initialValue => {
-  const [value, setValue] = useState(initialValue);
- 
-  const handleChange = e => {
-    setValue(e.target.value);
-  }
-  return {
-    value,
-    onChange: handleChange
-  }
-}
- 
-export default Login;
+
+export default LoginForm
